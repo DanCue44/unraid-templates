@@ -1,0 +1,11 @@
+<CommunityApplications>
+  <Profile>
+    Unraid templates for apps by DanCue44.
+
+    **AllSeerr** is a request manager for movies, series, music, books and audiobooks. It is a fork of Seerr that adds Lidarr, Chaptarr, Bazarr and Audiobookshelf support.
+
+    For help, open an issue on the app's GitHub repository.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/DanCue44/AllSeerr/main/public/android-chrome-512x512.png</Icon>
+  <WebPage>https://github.com/DanCue44/unraid-templates</WebPage>
+</CommunityApplications>
