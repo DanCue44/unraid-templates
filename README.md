@@ -4,7 +4,7 @@ Community Applications templates for apps by DanCue44.
 
 | App | What it does | Template | Support |
 | --- | --- | --- | --- |
-| [AllSeerr](https://github.com/DanCue44/AllSeerr) | Request manager for movies, series, music, books and audiobooks | [allseerr.xml](templates/allseerr.xml) | [Issues](https://github.com/DanCue44/AllSeerr/issues) |
+| [AllSeerr](https://github.com/DanCue44/AllSeerr) | Request manager for movies, series, music, books and audiobooks | [allseerr.xml](templates/allseerr.xml) | [Forum](https://forums.unraid.net/topic/200966-support-dancue44-allseerr/), [Issues](https://github.com/DanCue44/AllSeerr/issues) |
 
 ## AllSeerr install notes
 
