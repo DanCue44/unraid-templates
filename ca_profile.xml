@@ -4,6 +4,8 @@
 
     **Allseerr** is a request manager for movies, series, music, books and audiobooks. It is a fork of Seerr that adds Lidarr, Chaptarr, Bazarr and Audiobookshelf support.
 
+    **Talearr** is an ebook and audiobook collection manager. It is a drop-in fork of Chaptarr with Hardcover metadata, unabridged and abridged recordings kept together, comics and manga, and Allseerr requests.
+
     For help, open an issue on the app's GitHub repository.
   </Profile>
   <Icon>https://raw.githubusercontent.com/DanCue44/Allseerr/main/public/android-chrome-512x512.png</Icon>
