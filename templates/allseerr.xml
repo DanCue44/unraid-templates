@@ -9,6 +9,8 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/200966-support-dancue44-allseerr/</Support>
   <Project>https://github.com/DanCue44/Allseerr</Project>
+  <DonateText>Leave a tip for Allseerr</DonateText>
+  <DonateLink>https://buy.stripe.com/14A9AU14dd2P6HkcS58k800</DonateLink>
   <Overview>Allseerr is a free and open source request manager for your media server. Users can discover and request movies, series, music, books and audiobooks, and requests are sent to Radarr, Sonarr, Lidarr and Chaptarr. It works with Jellyfin, Emby and Plex. Allseerr is based on Seerr.[br][br]
 [b]Permissions:[/b] the container runs as UID 1000 / GID 1000 and does not use PUID or PGID. Before the first start, make the appdata folder writable by that user, for example:[br]
 [code]mkdir -p /mnt/user/appdata/allseerr &amp;&amp; chown -R 1000:1000 /mnt/user/appdata/allseerr[/code]</Overview>

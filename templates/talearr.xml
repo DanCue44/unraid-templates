@@ -19,8 +19,8 @@
   <PostArgs/>
   <Changes>v0.18.48: first public release</Changes>
   <CPUset/>
-  <DonateText/>
-  <DonateLink/>
+  <DonateText>Leave a tip for Talearr</DonateText>
+  <DonateLink>https://buy.stripe.com/dRm8wQ6ox7Ive9M3hv8k801</DonateLink>
   <Requires/>
   <Config Name="WebUI" Target="8789" Default="8789" Mode="tcp" Description="Web interface and API port" Type="Port" Display="always" Required="true" Mask="false">8789</Config>
   <Config Name="Appdata" Target="/config" Default="/mnt/user/appdata/talearr" Mode="rw" Description="Configuration, chaptarr.db and talearr.db. To move from Chaptarr, point this at Chaptarr's appdata folder." Type="Path" Display="advanced" Required="true" Mask="false">/mnt/user/appdata/talearr</Config>
