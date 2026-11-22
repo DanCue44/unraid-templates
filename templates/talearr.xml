@@ -18,23 +18,25 @@
   <ExtraParams/>
   <PostArgs/>
   <Changes>
+### 0.18.69 (2026-11-22)
+- Optional search on release day, newest releases searched first
+- Preferred Series and Lock Edition in the Edit book dialog
+- New wishlist sources: owned Audible library, author name lists, lists from a URL
+- Comics search no longer lists novel series
+
 ### 0.18.68 (2026-11-20)
 - Audiobooks that Audible titles after their series are matched by series and book number
 
 ### 0.18.67 (2026-11-17)
 - New Prefer Abridged grab policy
 - A second recording of a book is added as its own recording instead of replacing the wanted one
-- Clearer message when a download matches a different edition
 
 ### 0.18.66 (2026-11-17)
 - Audible-only books are no longer dropped by the popularity rule
 
-### 0.18.62 to 0.18.65 (2026-11-14 to 2026-11-17)
-- Better Audible author matching, manual import relink, Monitor New Books can be applied to existing authors
-
 Full changelog: https://github.com/DanCue44/Talearr/blob/main/CHANGELOG.md
   </Changes>
-  <Date>2026-11-20</Date>
+  <Date>2026-11-22</Date>
   <CPUset/>
   <DonateText>Leave a tip for Talearr</DonateText>
   <DonateLink>https://buy.stripe.com/dRm8wQ6ox7Ive9M3hv8k801</DonateLink>
