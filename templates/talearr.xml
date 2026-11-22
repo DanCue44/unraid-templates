@@ -18,6 +18,9 @@
   <ExtraParams/>
   <PostArgs/>
   <Changes>
+### 0.18.70 (2026-11-22)
+- A one-letter misspelling of the author's name no longer blocks an import
+
 ### 0.18.69 (2026-11-22)
 - Optional search on release day, newest releases searched first
 - Preferred Series and Lock Edition in the Edit book dialog
@@ -29,10 +32,6 @@
 
 ### 0.18.67 (2026-11-17)
 - New Prefer Abridged grab policy
-- A second recording of a book is added as its own recording instead of replacing the wanted one
-
-### 0.18.66 (2026-11-17)
-- Audible-only books are no longer dropped by the popularity rule
 
 Full changelog: https://github.com/DanCue44/Talearr/blob/main/CHANGELOG.md
   </Changes>

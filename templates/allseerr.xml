@@ -21,24 +21,25 @@
   <Icon>https://raw.githubusercontent.com/DanCue44/Allseerr/main/public/android-chrome-512x512.png</Icon>
   <ExtraSearchTerms>seerr overseerr jellyseerr requests lidarr chaptarr readarr bazarr audiobookshelf music books audiobooks</ExtraSearchTerms>
   <Changes>
+### 3.5.2.5 (2026-11-22)
+- Sign in with your own OpenID Connect provider (Authentik, Authelia, Keycloak)
+- Multiple webhooks, Notify Me Too, genre blocks
+- Optional: users remove what only they requested, Not Found after X days, unwatched request limit, watched cleanup page
+- Tracearr watch history, Advanced Requests options per user
+
 ### 3.5.2.4 (2026-11-19)
 - Book requests no longer fail when Chaptarr has not prepared the book yet
-- A refused request now says why (blocked service, request limit, rating)
-- Featured titles no longer cut off letters like g, p and y
+- A refused request now says why
 
 ### 3.5.2.3 (2026-11-18)
-- Faster combined search: movies, series and people show first, other sources join as they arrive
+- Faster combined search
 
 ### 3.5.2.2 (2026-11-17)
 - Talearr audiobook requests can ask for the unabridged or abridged reading
-- More compact author pages with filters and sorting
-
-### 3.5.2.1 (2026-11-17)
-- Updated to Seerr 3.5.2 with its security and bug fixes
 
 Full changelog: https://github.com/DanCue44/Allseerr/blob/main/CHANGELOG.md
   </Changes>
-  <Date>2026-11-19</Date>
+  <Date>2026-11-22</Date>
   <License>MIT</License>
   <DefaultTagDescription>Stable releases</DefaultTagDescription>
   <Branch>
