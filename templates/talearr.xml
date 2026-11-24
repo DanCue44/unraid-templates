@@ -18,6 +18,11 @@
   <ExtraParams/>
   <PostArgs/>
   <Changes>
+### 0.18.71 (2026-11-24)
+- Optional Clean Series From Titles setting and a Display Title per book
+- Duplicate audiobook recordings merged, new Make Primary button
+- Allseerr requests by Goodreads id no longer stuck in the pending queue
+
 ### 0.18.70 (2026-11-22)
 - A one-letter misspelling of the author's name no longer blocks an import
 
@@ -30,12 +35,9 @@
 ### 0.18.68 (2026-11-20)
 - Audiobooks that Audible titles after their series are matched by series and book number
 
-### 0.18.67 (2026-11-17)
-- New Prefer Abridged grab policy
-
 Full changelog: https://github.com/DanCue44/Talearr/blob/main/CHANGELOG.md
   </Changes>
-  <Date>2026-11-22</Date>
+  <Date>2026-11-24</Date>
   <CPUset/>
   <DonateText>Leave a tip for Talearr</DonateText>
   <DonateLink>https://buy.stripe.com/dRm8wQ6ox7Ive9M3hv8k801</DonateLink>
