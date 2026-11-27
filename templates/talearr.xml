@@ -18,6 +18,11 @@
   <ExtraParams/>
   <PostArgs/>
   <Changes>
+### 0.18.72 (2026-11-27)
+- Optional Audiobook Only mode hides books with no audiobook edition
+- Link Existing Files when adding a book
+- Publisher's Pack audiobooks no longer imported as copies of book 1
+
 ### 0.18.71 (2026-11-24)
 - Optional Clean Series From Titles setting and a Display Title per book
 - Duplicate audiobook recordings merged, new Make Primary button
@@ -32,12 +37,9 @@
 - New wishlist sources: owned Audible library, author name lists, lists from a URL
 - Comics search no longer lists novel series
 
-### 0.18.68 (2026-11-20)
-- Audiobooks that Audible titles after their series are matched by series and book number
-
 Full changelog: https://github.com/DanCue44/Talearr/blob/main/CHANGELOG.md
   </Changes>
-  <Date>2026-11-24</Date>
+  <Date>2026-11-27</Date>
   <CPUset/>
   <DonateText>Leave a tip for Talearr</DonateText>
   <DonateLink>https://buy.stripe.com/dRm8wQ6ox7Ive9M3hv8k801</DonateLink>

@@ -21,6 +21,10 @@
   <Icon>https://raw.githubusercontent.com/DanCue44/Allseerr/main/public/android-chrome-512x512.png</Icon>
   <ExtraSearchTerms>seerr overseerr jellyseerr requests lidarr chaptarr readarr bazarr audiobookshelf music books audiobooks</ExtraSearchTerms>
   <Changes>
+### 3.5.2.6 (2026-11-27)
+- Narrator pages: a narrator's audiobooks grouped by author and series, and narrator search
+- Grimmory for ebooks and audiobooks, including User Access
+
 ### 3.5.2.5 (2026-11-22)
 - Sign in with your own OpenID Connect provider (Authentik, Authelia, Keycloak)
 - Multiple webhooks, Notify Me Too, genre blocks
@@ -34,12 +38,9 @@
 ### 3.5.2.3 (2026-11-18)
 - Faster combined search
 
-### 3.5.2.2 (2026-11-17)
-- Talearr audiobook requests can ask for the unabridged or abridged reading
-
 Full changelog: https://github.com/DanCue44/Allseerr/blob/main/CHANGELOG.md
   </Changes>
-  <Date>2026-11-22</Date>
+  <Date>2026-11-27</Date>
   <License>MIT</License>
   <DefaultTagDescription>Stable releases</DefaultTagDescription>
   <Branch>
