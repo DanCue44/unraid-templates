@@ -18,6 +18,9 @@
   <ExtraParams/>
   <PostArgs/>
   <Changes>
+### 0.18.73 (2026-11-27)
+- Audiobook Only hides books that only have Kindle or print editions
+
 ### 0.18.72 (2026-11-27)
 - Optional Audiobook Only mode hides books with no audiobook edition
 - Link Existing Files when adding a book
@@ -30,12 +33,6 @@
 
 ### 0.18.70 (2026-11-22)
 - A one-letter misspelling of the author's name no longer blocks an import
-
-### 0.18.69 (2026-11-22)
-- Optional search on release day, newest releases searched first
-- Preferred Series and Lock Edition in the Edit book dialog
-- New wishlist sources: owned Audible library, author name lists, lists from a URL
-- Comics search no longer lists novel series
 
 Full changelog: https://github.com/DanCue44/Talearr/blob/main/CHANGELOG.md
   </Changes>

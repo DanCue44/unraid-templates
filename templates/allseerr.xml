@@ -21,6 +21,9 @@
   <Icon>https://raw.githubusercontent.com/DanCue44/Allseerr/main/public/android-chrome-512x512.png</Icon>
   <ExtraSearchTerms>seerr overseerr jellyseerr requests lidarr chaptarr readarr bazarr audiobookshelf music books audiobooks</ExtraSearchTerms>
   <Changes>
+### 3.5.2.7 (2026-11-27)
+- Custom accent colors now show across the Ambient interface
+
 ### 3.5.2.6 (2026-11-27)
 - Narrator pages: a narrator's audiobooks grouped by author and series, and narrator search
 - Grimmory for ebooks and audiobooks, including User Access
@@ -34,9 +37,6 @@
 ### 3.5.2.4 (2026-11-19)
 - Book requests no longer fail when Chaptarr has not prepared the book yet
 - A refused request now says why
-
-### 3.5.2.3 (2026-11-18)
-- Faster combined search
 
 Full changelog: https://github.com/DanCue44/Allseerr/blob/main/CHANGELOG.md
   </Changes>
